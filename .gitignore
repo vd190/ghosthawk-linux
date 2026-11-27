@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Report files (اختياري - احذف إذا أردت رفع التقارير)
+full_security_report.json
+scan_report.json
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.backup
